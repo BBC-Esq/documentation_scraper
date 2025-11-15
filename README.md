@@ -78,12 +78,6 @@ Scraped_Documentation/
 
 ✅ All documentation saved in the `Scraped_Documentation` folder  
 ✅ Each source gets its own organized subfolder  
-✅ HTML formatting and styles preserved  
-
----
+✅ HTML formatting and styles preserved but surrouding irrelevant fluff is not scraped.
 
 <div align="center">
-
-**Happy Scraping!** 🎉
-
-</div>
